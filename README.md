@@ -1,6 +1,7 @@
+<img width="100%" src="https://your-banner-image-url-here.png](https://pin.it/6OJqp4Apc)](https://i.pinimg.com/1200x/87/4f/c4/874fc44c941f6c373ed7ffd4c0bdfb3e.jpg)" alt="Banner">
 <h1 align="center">Hi 👋, I'm Shakti</h1>
 <h3 align="center">I'm a pre-final year student at VIT Bhopal University, pursuing Integrated M.Tech in Artificial Intelligence. 🎯Striving to become better every day.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=S-Labs21&label=Profile%20views&color=0e75b6&style=flat" alt="S-Labs21" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-Labs21&label=Profile%20views&color=0e75b6&style=flat" alt="S-Labs21" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=S-Labs21&theme=radical" alt="S-Labs21" /></a> </p>
 
