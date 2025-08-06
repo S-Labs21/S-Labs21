@@ -1,4 +1,4 @@
-<h1 align="center">Hello!, I'm Shakti</h1>
+<h1 align="center">Hello! I'm Shakti</h1>
 <h3 align="center">I'm a pre-final year student at VIT Bhopal University, pursuing Integrated M.Tech in Artificial Intelligence. 🎯Striving to become better every day.</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-Labs21&label=Profile%20views&color=0e75b6&style=flat" alt="S-Labs21" /> </p> -->
 
