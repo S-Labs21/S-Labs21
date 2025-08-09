@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.jpg" alt="Banner" width="100%">
+  <img src="Banner_github.jpg" alt="Banner" width="100%">
 </div>
 <h1 align="center">Hello! I'm Shakti</h1>
 <h3 align="center">I'm a pre-final year student at VIT Bhopal University, pursuing Integrated M.Tech in Artificial Intelligence. 🎯Striving to become better every day.</h3>
