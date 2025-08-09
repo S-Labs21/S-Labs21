@@ -31,25 +31,26 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
+<!-- Separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">Stats</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=S-Labs21&theme=radical" alt="S-Labs21" /></a> </p>
+<h3 align="left">Statistics</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=S-Labs21&theme=radical" alt="S-Labs21" /></a> </p>
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Labs21&layout=compact&theme=bear" alt=S-Labs21 />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=S-Labs21&show_icons=true&locale=en&theme=bear" alt="S-Labs21" /></p>
-
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/S-Labs21">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=S-Labs21&theme=bear" height="180em" />
-<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S-Labs21&theme=bear" height="180em" /> -->
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S-Labs21&theme=bear" height="180em" />
-<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=S-Labs21&theme=2077" height="180em" /> -->
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S-Labs21&theme=bear" height="180em" />
+
+<!-- Top Languages Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Labs21&layout=compact&theme=bear" alt="S-Labs21" />
+
+<!-- Stats Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=S-Labs21&show_icons=true&locale=en&theme=bear" alt="S-Labs21" />
+
+<!-- Additional Stats Cards -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=S-Labs21&theme=bear" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S-Labs21&theme=bear" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S-Labs21&theme=bear" height="180em" />
+
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=S-Labs21&theme=react-dark"/>
