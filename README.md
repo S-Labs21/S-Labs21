@@ -46,7 +46,7 @@
 <div align="center">
 <a href="https://github.com/S-Labs21">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=S-Labs21&theme=bear" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S-Labs21&theme=bear" height="180em" />
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S-Labs21&theme=bear" height="180em" /> -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S-Labs21&theme=bear" height="180em" />
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=S-Labs21&theme=2077" height="180em" /> -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S-Labs21&theme=bear" height="180em" />
