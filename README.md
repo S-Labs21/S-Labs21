@@ -1,9 +1,7 @@
+
 <h1 align="center">Hello! I'm Shakti</h1>
 <h3 align="center">I'm a pre-final year student at VIT Bhopal University, pursuing Integrated M.Tech in Artificial Intelligence. 🎯Striving to become better every day.</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-Labs21&label=Profile%20views&color=0e75b6&style=flat" alt="S-Labs21" /> </p> -->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=S-Labs21&theme=radical" alt="S-Labs21" /></a> </p>
-
 
 - 📫 How to reach me **labhaniyas.0240@gmail.com**
 
@@ -33,6 +31,8 @@
 
 
 <h3 align="left">Stats</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=S-Labs21&theme=radical" alt="S-Labs21" /></a> </p>
+
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Labs21&layout=compact&theme=bear" alt=S-Labs21 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=S-Labs21&show_icons=true&locale=en&theme=bear" alt="S-Labs21" /></p>
