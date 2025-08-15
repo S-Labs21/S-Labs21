@@ -2,6 +2,8 @@
   <img src="Banner_2.png" alt="Banner" width="100%">
 </div>
 <h1 align="center">Hello! I'm Shakti </h1>
+<!-- <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+new+Roman&size=27&duration=7500&pause=1000&color=E9F6F7&width=435&lines=Hello%2C+I'm+Shakti!" alt="Typing SVG" /></a></h1> -->
+
 <h3 align="center">I'm a pre-final year student at VIT Bhopal University, pursuing Integrated M.Tech in Artificial Intelligence. 🎯Striving to become better every day.</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-Labs21&label=Profile%20views&color=0e75b6&style=flat" alt="S-Labs21" /> </p> -->
 
