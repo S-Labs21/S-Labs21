@@ -26,22 +26,22 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Statistics</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=S-Labs21&theme=radical" alt="S-Labs21" /></a> </p>
+<!-- <p align="center"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)"><img src="https://github-profile-trophy.vercel.app/?username=S-Labs21&theme=radical" alt="S-Labs21" /></a> </p> -->
 
 <div align="center">
 
 <!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Labs21&layout=compact&theme=bear" alt="S-Labs21" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Labs21&layout=compact&theme=bear" alt="S-Labs21" /> -->
 
 <!-- Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=S-Labs21&show_icons=true&locale=en&theme=bear" alt="S-Labs21" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S-Labs21&show_icons=true&locale=en&theme=bear" alt="S-Labs21" /> -->
 
 <!-- Additional Stats Cards -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=S-Labs21&theme=bear" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S-Labs21&theme=bear" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S-Labs21&theme=bear" height="180em" /> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S-Labs21&theme=bear" height="180em" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left"> Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=S-Labs21&theme=react-dark"/>
