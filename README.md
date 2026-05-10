@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Banner_2.png" alt="Banner" width="100%">
+  <img src="WhatsApp Image 2026-05-10 at 20.20.09.jpeg" alt="Banner" width="100%">
 </div>
 <h1 align="center">Hello! I'm Shakti </h1>
 <!-- <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Firca+code&size=22&duration=7500&pause=1000&color=E9F6F7&width=435&lines=Hello%2C+I'm+Shakti!" alt="Typing SVG" /></a></h1> -->
