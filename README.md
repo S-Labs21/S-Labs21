@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner_github.gif" alt="Banner" width="100%">
+  <img src="banner_github2.gif" alt="Banner" width="100%">
 </div>
 <h1 align="center">Hello! I'm Shakti </h1>
 <!-- <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Firca+code&size=22&duration=7500&pause=1000&color=E9F6F7&width=435&lines=Hello%2C+I'm+Shakti!" alt="Typing SVG" /></a></h1> -->
@@ -17,9 +17,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,mysql,firebase,gcp,aws,docker,opencv,sklearn,pytorch,tensorflow,vscode,git,github,figma" />
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,gcp,aws,docker,opencv,sklearn,pytorch,tensorflow,vscode,git,github,figma,jupyter" />
+<!-- <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+</p> -->
 
 <!-- Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -36,9 +36,9 @@
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S-Labs21&show_icons=true&locale=en&theme=bear" alt="S-Labs21" /> -->
 
 <!-- Additional Stats Cards -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=S-Labs21&theme=bear" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S-Labs21&theme=bear" height="180em" /> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S-Labs21&theme=bear" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=S-Labs21&theme=github_dark" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S-Labs21&theme=github_dark" height="180em" /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S-Labs21&theme=github_dark" height="180em" />
 
 </div>
 
